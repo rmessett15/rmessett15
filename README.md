@@ -4,7 +4,7 @@
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmessett15&theme=blueberry)](https://github.com/rmessett15/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmessett15&layout=compact&theme=bluberry)](https://github.com/rmessett15/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmessett15&layout=compact&theme=cobalt)](https://github.com/rmessett15/github-readme-stats)
 
 <!-- ### Hi there 👋 -->
 
