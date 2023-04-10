@@ -1,10 +1,10 @@
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rmessett15&theme=blueberry)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rmessett15&theme=panda)](https://git.io/streak-stats)
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmessett15&theme=blueberry)](https://github.com/rmessett15/github-readme-stats)
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmessett15&theme=panda)](https://github.com/rmessett15/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmessett15&layout=compact&theme=bluberry)](https://github.com/rmessett15/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmessett15&layout=compact&theme=panda)](https://github.com/rmessett15/github-readme-stats)
 
 <!-- ### Hi there 👋 -->
 
