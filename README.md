@@ -1,6 +1,6 @@
-### Hi there 👋
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=rmessett15&theme=tokyonight)](https://git.io/streak-stats)
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **rmessett15/rmessett15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
