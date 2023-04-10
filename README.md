@@ -4,6 +4,8 @@
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmessett15)](https://github.com/rmessett15/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- ### Hi there 👋 -->
 
 <!--
