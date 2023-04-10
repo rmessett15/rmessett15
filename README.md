@@ -1,6 +1,7 @@
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rmessett15&theme=tokyonight)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=rmessett15&theme=tokyonight)](https://git.io/streak-stats)
+
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmessett15)](https://github.com/rmessett15/github-readme-stats)
 
 <!-- ### Hi there 👋 -->
