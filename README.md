@@ -1,7 +1,6 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=rmessett15&theme=tokyonight)](https://git.io/streak-stats)
-
 ## GitHub Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=rmessett15&theme=tokyonight)](https://git.io/streak-stats)
 
 <!-- ### Hi there 👋 -->
 
